@@ -1,0 +1,4 @@
+hi
+yes
+happy
+sad
