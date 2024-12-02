@@ -1,7 +1,0 @@
-file.txt
-imsi.txt
-test
-test.sh
-test2
-tests
-test.txt

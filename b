@@ -1,4 +1,0 @@
-hi
-yes
-happy
-sad

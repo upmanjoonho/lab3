@@ -1,0 +1,8 @@
+ex.txt
+juno
+juno.c
+lab
+lab.c
+output.txt
+test
+test.c

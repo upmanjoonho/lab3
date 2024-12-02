@@ -1,0 +1,9 @@
+ex.txt
+ex.txt[D[D[D
+juno
+juno.c
+lab
+lab.c
+output.txt
+test
+test.c
